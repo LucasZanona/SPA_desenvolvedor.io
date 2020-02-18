@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "hand-assist": {
@@ -102,6 +102,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "hand-assist"
+    }
+  },
+  "defaultProject": "hand-assist",
+  "cli": {
+    "analytics": "eb6f6092-84e1-4016-9beb-24e97266befa"
+  }
 }
