@@ -1,1 +1,1 @@
-# hand-assist
+# projeto basico de SPA Angular
